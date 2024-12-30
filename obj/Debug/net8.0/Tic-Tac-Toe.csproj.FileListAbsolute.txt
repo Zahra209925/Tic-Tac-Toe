@@ -1,0 +1,14 @@
+/Users/s2401563/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/Tic-Tac-Toe/bin/Debug/net8.0/Tic-Tac-Toe
+/Users/s2401563/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/Tic-Tac-Toe/bin/Debug/net8.0/Tic-Tac-Toe.deps.json
+/Users/s2401563/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/Tic-Tac-Toe/bin/Debug/net8.0/Tic-Tac-Toe.runtimeconfig.json
+/Users/s2401563/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/Tic-Tac-Toe/bin/Debug/net8.0/Tic-Tac-Toe.dll
+/Users/s2401563/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/Tic-Tac-Toe/bin/Debug/net8.0/Tic-Tac-Toe.pdb
+/Users/s2401563/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/Tic-Tac-Toe/obj/Debug/net8.0/Tic-Tac-Toe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s2401563/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/Tic-Tac-Toe/obj/Debug/net8.0/Tic-Tac-Toe.AssemblyInfoInputs.cache
+/Users/s2401563/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/Tic-Tac-Toe/obj/Debug/net8.0/Tic-Tac-Toe.AssemblyInfo.cs
+/Users/s2401563/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/Tic-Tac-Toe/obj/Debug/net8.0/Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+/Users/s2401563/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/Tic-Tac-Toe/obj/Debug/net8.0/Tic-Tac-Toe.dll
+/Users/s2401563/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/Tic-Tac-Toe/obj/Debug/net8.0/refint/Tic-Tac-Toe.dll
+/Users/s2401563/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/Tic-Tac-Toe/obj/Debug/net8.0/Tic-Tac-Toe.pdb
+/Users/s2401563/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/Tic-Tac-Toe/obj/Debug/net8.0/Tic-Tac-Toe.genruntimeconfig.cache
+/Users/s2401563/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/Tic-Tac-Toe/obj/Debug/net8.0/ref/Tic-Tac-Toe.dll
